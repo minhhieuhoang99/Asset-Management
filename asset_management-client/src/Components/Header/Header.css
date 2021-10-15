@@ -1,0 +1,17 @@
+.ant-layout-header{
+    background-color: #CF2338;
+  }
+.ant-breadcrumb{
+margin: 18px;
+}
+.ant.form>.ant-form-horizontal{
+  text-align: center;
+}
+
+/* .ant-btn{
+  margin-right:22%;
+  margin-left: 20%;
+} */
+.ant-form-item-explain{
+  text-align: left;
+} 

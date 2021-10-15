@@ -1,0 +1,22 @@
+.ant-layout-content{
+  padding: 50px 50px;
+}
+
+.ant-radio-checked .ant-radio-inner{
+border-color: red !important ;
+border-radius: 25px;
+}
+
+.ant-radio-checked .ant-radio-inner:after{
+background-color: red;
+border-radius: 25px;
+}
+.ant-radio:hover .ant-radio-inner {
+border-radius: 25px;
+border: 5px solid red;
+}
+
+.ant-radio-checked .ant-radio-inner:focus{
+border-color: red;
+border-radius: 25px;
+}

@@ -1,0 +1,51 @@
+.borderCategory {
+  border-bottom: 2px solid black;
+  text-align: left;
+  width: 20%;
+}
+.borderNumber {
+  border-bottom: 2px solid black;
+  text-align: left;
+  width: 10%;
+}
+.borderNumberWaitting {
+  border-bottom: 2px solid black;
+  text-align: left;
+  width: 16%;
+}
+.antLayoutContent{
+    padding: 40px !important;
+    background: #f0f2f5;
+    box-shadow: -20px 20px 30px #a1a2a4, 20px -20px 30px #ffffff !important;
+    margin: 0px 50px;
+    border-radius: 10px;
+  }
+.create{
+  background-color: #CF2338;
+  color: white;
+  width: 67%;
+  border-radius: 7px;
+  float: right;
+}
+.title{
+  color: #CF2338;
+}
+.borderRowCategory {
+  border-bottom: 1px solid #d0d0d0;
+  text-align: left;
+  width: 20%;
+  padding: 5px 0px 5px 0px;
+}
+.borderRowNumber {
+  border-bottom: 1px solid #d0d0d0;
+  text-align: left;
+  width: 10%;
+  padding: 5px 0px 5px 0px;
+}
+.borderRowNumberWaitting {
+  border-bottom: 1px solid #d0d0d0;
+  text-align: left;
+  width: 16%;
+  padding: 5px 0px 5px 0px;
+}
+

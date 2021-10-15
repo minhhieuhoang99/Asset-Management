@@ -1,0 +1,33 @@
+.ant-pagination{
+  padding: 15px;
+}
+.ant-pagination-item-active {
+  background-color: #CF2338;
+  border: none;
+}
+.ant-pagination-item a {
+  color: #CF2338;
+}
+ .ant-pagination-item-active a {
+  color: white;
+}
+.ant-pagination-prev .ant-btn span{
+  color: #CF2338;
+}
+.ant-pagination-next .ant-btn span{
+  color: #CF2338;
+}
+.ant-pagination-next.ant-pagination-disabled .ant-btn span{
+  color: #9da3a8;
+}
+.ant-pagination-prev.ant-pagination-disabled .ant-btn span{
+  color: #9da3a8;
+}
+.bi.bi-x-circle{
+  color: red;
+  padding-left: 20px;
+}
+.bi.bi-pencil-fill{
+  padding-left: 20px;
+}
+

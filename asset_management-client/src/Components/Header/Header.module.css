@@ -1,0 +1,28 @@
+.buttonGroup{
+    padding: 10px;
+    display: flex;
+  }
+
+   .cancelButton{
+    border-radius: 7px;
+  }
+  .create{
+    background-color: #CF2338;
+    color: white;
+    border-radius: 7px;
+  }
+.ant-form-horizontal{
+  text-align: center;
+}
+
+.changePass{
+  text-align: center;
+  justify-content: center;
+}
+.ant-btn{
+  margin-right:22%;
+  margin-left: 20%;
+}
+.ant-form-item-explain{
+  text-align: left;
+}

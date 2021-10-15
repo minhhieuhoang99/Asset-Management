@@ -1,0 +1,40 @@
+.borderTable {
+    border-bottom: 2px solid black;
+    text-align: left;
+    width: 16%;
+  }
+  .antLayoutContent{
+      padding: 50px 50px;
+    }
+  .create{
+    background-color: #CF2338;
+    color: white;
+    border-radius: 7px;
+  }
+  .title{
+    color: #CF2338;
+  }
+  .radius{
+    border: 1px solid white;
+    border-radius: 7px;
+  }
+  .borderRow {
+    border-bottom: 1px solid #d0d0d0;
+    text-align: left;
+    width: 16%;
+    padding: 7px;
+  }
+  .buttonGroup{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    width: 190px;
+  }
+  .disabledIcon{
+      opacity: 0.5;
+      pointer-events: none;
+   }
+   .cancelButton{
+    border-radius: 7px;
+  }
+  

@@ -1,0 +1,61 @@
+.borderTable {
+    border-bottom: 2px solid black;
+    text-align: left;
+  }
+  .antLayoutContent{
+      padding: 40px !important;
+      background: #f0f2f5;
+      box-shadow: -20px 20px 30px #a1a2a4, 20px -20px 30px #ffffff !important;
+      margin: 0px 50px;
+      border-radius: 10px;
+    }
+  .create{
+    background-color: #CF2338;
+    color: white;
+    border-radius: 7px;
+  }
+  .title{
+    color: #CF2338;
+  }
+  .radius{
+    border: 1px solid white;
+    border-radius: 7px;
+  }
+  .borderRow {
+    border-bottom: 1px solid #d0d0d0;
+    text-align: left;
+    padding: 5px;
+  }
+  .buttonGroup{
+    padding: 10px;
+    display: flex;
+  }
+  .disabledIcon{
+      opacity: 0.5;
+      pointer-events: none;
+   }
+   .cancelButton{
+    border-radius: 7px;
+  }
+  .tableModal{
+    border-spacing: 10px;
+    border-collapse: separate;
+    table-layout: fixed;
+    width:100%;
+  }
+  .tableModal > tr > td{
+    width: 50%;
+    font-weight: 350;
+    font-size:15px;
+  }
+  .tableModal > tr {
+    width:100%;
+    text-align: left;
+  }
+  .tableModal > tr > td:first-child {
+    font-weight: 600;
+  }
+  .tableModal > tr > td:last-child {
+    word-wrap: break-word;
+    /* text-align: center; */
+  }

@@ -1,0 +1,16 @@
+.borderTable {
+  border-bottom: 2px solid black;
+  text-align: center;
+  width: 151px;
+}
+
+.borderRow {
+  border-bottom: 1px solid #d0d0d0;
+  text-align: center;
+  padding: 7px;
+  width: 151px;
+}
+
+.radio{
+  padding-left: 13px !important;
+}

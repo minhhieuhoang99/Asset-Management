@@ -1,0 +1,20 @@
+.ant-modal-content{
+    border-radius: 15px;
+    flex-basis: 50%;
+}
+.ant-modal-header{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.ant-modal-body{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.ant-layout-header.header{
+   height: 10%;
+}
+
+.ant-layout-footer {
+    margin-top: 1%;
+}

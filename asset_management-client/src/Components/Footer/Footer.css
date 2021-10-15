@@ -1,0 +1,54 @@
+/* .ant-layout-content{
+    height: 85vh;
+} */
+.ant-layout-footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+/* 
+table {
+    width: 100vw;
+    display: block;
+    overflow-y: scroll;
+    height: 50vh;
+} */
+
+/* .Mango-table{
+    width: 100%;
+    display: block;
+    overflow-y: auto;
+    height: 45vh;
+} */
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    border-radius: 7px;
+}
+
+.ant-input-group .ant-input {
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: inherit;
+    border-top-left-radius: 7px !important;
+    border-bottom-left-radius: 7px !important;
+}
+.ant-input{
+    border-radius: 7px;
+}
+
+.ant-picker{
+    border-radius: 7px !important;
+}
+
+.ant-btn:hover, .ant-btn:focus {
+    color: #CF2338;
+    background: #fff;
+    border-color: #CF2338;
+}
+body {
+    background: #f0f2f5;
+}

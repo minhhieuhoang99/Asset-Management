@@ -1,0 +1,47 @@
+.ant-pagination{
+  padding: 15px;
+}
+.ant-pagination-item-active {
+  background-color: #CF2338;
+  border: none;
+}
+.ant-pagination-item a {
+  color: #CF2338;
+}
+ .ant-pagination-item-active a {
+  color: white;
+}
+.ant-pagination-prev .ant-btn span{
+  color: #CF2338;
+}
+.ant-pagination-next .ant-btn span{
+  color: #CF2338;
+}
+.ant-pagination-next.ant-pagination-disabled .ant-btn span{
+  color: #9da3a8;
+}
+.ant-pagination-prev.ant-pagination-disabled .ant-btn span{
+  color: #9da3a8;
+}
+.bi.bi-x-circle{
+  color: red;
+  padding-left: 20px;
+}
+.bi.bi-pencil-fill{
+  padding-left: 20px;
+}
+.ant-modal-header{
+  background-color: #c6cdd164;
+}
+.ant-modal-title {
+  color: #CF2338;
+  padding-left: 25px;
+}
+.anticon.anticon-close.ant-modal-close-icon{
+  color: #CF2338;
+  border: 3px solid #CF2338;
+  border-radius: 5px;
+}
+.ant-input{
+  height: 32px;
+}
